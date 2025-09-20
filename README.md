@@ -6,10 +6,10 @@
 <img width="1894" height="713" alt="Captura de tela 2025-09-19 223032" src="https://github.com/user-attachments/assets/6d5c81ee-8134-4fc4-9ab3-2f57792d29f3" />
 
 ## Fórmulas Utilizadas para o desenvolvimento da tarefa:
-CORRESP
-ÍNDICE
-CONT.SE
-MÁXIMOSES
-MÍNIMOSES
-SOMASES
-CONT.VALORES
+CORRESP,
+ÍNDICE,
+CONT.SE,
+MÁXIMOSES,
+MÍNIMOSES,
+SOMASES,
+CONT.VALORES.
