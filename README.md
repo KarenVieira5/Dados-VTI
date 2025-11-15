@@ -21,3 +21,8 @@ CONT.VALORES.
 
 ## Atividade 4: Introdução ao Power BI
 <img width="1318" height="736" alt="image" src="https://github.com/user-attachments/assets/7b1bd8bf-01f6-45b4-be94-7a022cdb6289" />
+
+## Atividade sobre Regressão Linear:
+<img width="1352" height="852" alt="image" src="https://github.com/user-attachments/assets/7b0305a6-8f7f-4d9d-b6a5-012c759d3e3e" />
+
+## Atividade sobre a planilha Sorvete:
